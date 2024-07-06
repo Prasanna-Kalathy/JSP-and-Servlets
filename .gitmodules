@@ -1,0 +1,24 @@
+[submodule "Advanced-JDBC"]
+	path = Advanced-JDBC
+	url = https://github.com/Prasanna-Kalathy/Advanced-JDBC.git
+[submodule "Coupon-Project"]
+	path = Coupon-Project
+	url = https://github.com/Prasanna-Kalathy/Coupon-Project.git
+[submodule "CustomTags"]
+	path = CustomTags
+	url = https://github.com/Prasanna-Kalathy/CustomTags.git
+[submodule "JavaServerPages"]
+	path = JavaServerPages
+	url = https://github.com/Prasanna-Kalathy/JavaServerPages.git
+[submodule "Login_Servlets"]
+	path = Login_Servlets
+	url = https://github.com/Prasanna-Kalathy/Login_Servlets.git
+[submodule "PreparedStatements"]
+	path = PreparedStatements
+	url = https://github.com/Prasanna-Kalathy/PreparedStatements.git
+[submodule "Servlets"]
+	path = Servlets
+	url = https://github.com/Prasanna-Kalathy/Servlets.git
+[submodule "SessionManagement"]
+	path = SessionManagement
+	url = https://github.com/Prasanna-Kalathy/SessionManagement.git
